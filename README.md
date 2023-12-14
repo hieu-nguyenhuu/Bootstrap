@@ -1,2 +1,8 @@
 # Bootstrap
-Visit my first bootstrap mini-project at [The Book](https://hieu-nguyenhuu.github.io/Bootstrap/)
+- Visit my first bootstrap mini-project at [The Book](https://hieu-nguyenhuu.github.io/Bootstrap/)
+- From this project, I learned how to include Bootstrap in a project, and some other features of it:
+  - Components: button, card, navbar,...
+  - Utilities: margin, padding, border,...
+  - Responsive with container properties
+  - Grid view
+  - ...
